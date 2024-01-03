@@ -1,13 +1,13 @@
 # Tomato-Maturity-Detection
-Exploring Deep Learning for Tomato Maturity Detection: A Journey through Convolutional Neural Networks (CNN), VGG16, and ResNet50** 
+Exploring Deep Learning for Tomato Maturity Detection: A Journey through Convolutional Neural Networks (CNN), VGG16, and ResNet50
 
 Embarking on a fascinating journey into the realm of computer vision, I recently delved into a project focused on Tomato Maturity Detection. Leveraging the power of deep learning, I explored three formidable architectures: Convolutional Neural Networks (CNN), VGG16, and ResNet50. Let's take a glance at the key chapters of this captivating adventure:
 
-*1. Data Exploration and Preparation:*
+#1. Data Exploration and Preparation:
   - Unveiled the world of Tomato Maturity Detection through a diverse dataset.
   - Crafted a pandas DataFrame, wielding the paths to images and their corresponding labels.
 
-*2. Visualization:*
+#2. Visualization:*
   - Painted a canvas of Tomato-Maturity-Detection, showcasing a random subset with their respective labels.
  
 *3. Model Crafting:*
